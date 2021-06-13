@@ -1,12 +1,13 @@
 import wx
 
-
+# class login inheritance dari class frame
 class Login(wx.Frame):
 
     def __init__(self, parent):
         """
         This is view login
         """
+        # wx.frame.__init__(self, parent)
         super(Login, self).__init__(parent, style=wx.CAPTION | wx.TAB_TRAVERSAL, size=(300, 150))
         self.SetTitle("Login")
         self.SetSizeHints(wx.DefaultSize, wx.DefaultSize)

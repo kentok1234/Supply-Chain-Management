@@ -26,5 +26,13 @@ class ProdukModel:
         except ConnectionError:
             return 0
 
+    def updateDataProduk(self, data):
+        try:
+            self.db.query("UPDATE product SET supplierid=?, productname=?, quantity=?, price=? WHERE productid=?",
+                      (int(data[0]), str(data[1]), int(data[2]), int(data[3]), int(data[4])))
+            return 1
+        except ConnectionError:
+            return 0
+
     def deleteDataProduk(self, id):
         self.db.query("DELETE FROM product WHERE productid=:id", (id,))

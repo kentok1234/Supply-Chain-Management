@@ -3,7 +3,7 @@ import wx
 
 class TambahProduk(wx.Dialog):
     def __init__(self, parent):
-        wx.Dialog.__init__(self, parent, id=wx.ID_ANY, title=u"Edit produk", pos=wx.DefaultPosition,
+        wx.Dialog.__init__(self, parent, id=wx.ID_ANY, title=u"Tambah produk", pos=wx.DefaultPosition,
                            size=wx.DefaultSize, style=wx.DEFAULT_DIALOG_STYLE)
 
         self.SetSizeHints(wx.DefaultSize, wx.DefaultSize)

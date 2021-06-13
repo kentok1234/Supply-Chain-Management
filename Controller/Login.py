@@ -19,11 +19,18 @@ class LoginController(Controller):
 
     def btnBatalOnButtonClick(self, event):
         self.frame.Close()
+        exit("Program selesai")
 
     def btnLoginOnButtonClick(self, event):
-        if self.dataValidation() == 1:
-            self.controlhome.main()
-            self.frame.Close()
+        try:
+            if int(self.dataValidation()[0]) > 0:
+                self.controlhome.main(self.dataValidation()[0])
+                self.frame.Close()
+            else:
+                wx.MessageDialog(self.frame, "Username atau password salah!", "error login").ShowModal()
+
+        except TypeError:
+            wx.MessageDialog(self.frame, "Username atau password salah!", "error login").ShowModal()
 
     def dataValidation(self):
         username = self.frame.input_username.GetValue()
@@ -31,5 +38,4 @@ class LoginController(Controller):
 
         data = self.loginmodel.getOneDataUser((username, password))
 
-        if data:
-            return 1
+        return data

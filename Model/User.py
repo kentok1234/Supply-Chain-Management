@@ -11,3 +11,4 @@ class UserModel:
                       "and password=:password;", {"username": params[0], "password": params[1], })
 
         return self.db.select_one()
+
