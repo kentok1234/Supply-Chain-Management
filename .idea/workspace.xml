@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1c662d8-84b0-4202-ab5d-f9c2d577b3ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Controller/EditSupplier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/EditSupplier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/EditProduk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/EditProduk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/Core/data.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Pegawai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Pegawai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Produk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Produk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Supplier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Supplier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/User.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/EditProduk.py" beforeDir="false" afterPath="$PROJECT_DIR$/View/EditProduk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/View/Home.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tZcjzT1sAdoSXzYViraz0CFpVs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Latihan\MVC\Core" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MVC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1c662d8-84b0-4202-ab5d-f9c2d577b3ae" name="Default Changelist" comment="" />
+      <created>1622980190311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622980190311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623046193066">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.736@0.0.1366.736" timestamp="1623046193066" />
+    <state x="451" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622980229306">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="451" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1622980229306" />
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom" timestamp="1623425884002">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1623425884002" />
+    <state width="1345" height="184" key="GridCell.Tab.0.center" timestamp="1623425884001">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="184" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1623425884001" />
+    <state width="1345" height="184" key="GridCell.Tab.0.left" timestamp="1623425884001">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="184" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1623425884001" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right" timestamp="1623425884002">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="184" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1623425884002" />
+    <state width="659" height="225" key="GridCell.Tab.1.bottom" timestamp="1623425787076">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="659" height="225" key="GridCell.Tab.1.bottom/0.0.1366.736@0.0.1366.736" timestamp="1623425787076" />
+    <state width="659" height="225" key="GridCell.Tab.1.center" timestamp="1623425787076">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="659" height="225" key="GridCell.Tab.1.center/0.0.1366.736@0.0.1366.736" timestamp="1623425787076" />
+    <state width="659" height="225" key="GridCell.Tab.1.left" timestamp="1623425787075">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="659" height="225" key="GridCell.Tab.1.left/0.0.1366.736@0.0.1366.736" timestamp="1623425787075" />
+    <state width="659" height="225" key="GridCell.Tab.1.right" timestamp="1623425787076">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="659" height="225" key="GridCell.Tab.1.right/0.0.1366.736@0.0.1366.736" timestamp="1623425787076" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1623423084959">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1623423084959" />
+  </component>
+</project>

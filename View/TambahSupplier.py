@@ -1,9 +1,9 @@
 import wx
 
 
-class EditSupplier(wx.Dialog):
+class TambahSupplier(wx.Dialog):
     def __init__(self, parent):
-        super(EditSupplier, self).__init__(parent, title="Edit supplier")
+        super(TambahSupplier, self).__init__(parent, title="Tambah supplier")
         self.SetSizeHints(wx.DefaultSize, wx.DefaultSize)
 
         flexsizer = wx.FlexGridSizer(5, 2, 0, 0)
@@ -46,11 +46,14 @@ class EditSupplier(wx.Dialog):
         self.btn_batal = wx.Button(self, wx.ID_ANY, u"Batal", wx.DefaultPosition, wx.DefaultSize, 0)
         flexsizer.Add(self.btn_batal, 0, wx.ALL, 5)
 
-        self.btn_simpan = wx.Button(self, wx.ID_ANY, u"Simpan", wx.DefaultPosition, wx.DefaultSize, 0)
-        flexsizer.Add(self.btn_simpan, 0, wx.ALL, 5)
+        self.btn_tambah = wx.Button(self, wx.ID_ANY, u"Tambah", wx.DefaultPosition, wx.DefaultSize, 0)
+        flexsizer.Add(self.btn_tambah, 0, wx.ALL, 5)
 
         self.SetSizer(flexsizer)
         self.Layout()
         flexsizer.Fit(self)
 
         self.Centre(wx.BOTH)
+
+    def __del__(self):
+        pass
